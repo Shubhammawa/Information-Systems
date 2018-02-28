@@ -1,2 +1,2 @@
 # Information-Systems
-All code for the Information Systems Lab. Implementations of python libraries like numpy, scipy, matplotlib.
+All code for the Information Systems Lab. Implementations of python libraries like numpy, scipy, sympy and matplotlib.
